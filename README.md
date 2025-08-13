@@ -2,6 +2,12 @@
 
 Script em Python que busca contatos no Supabase e envia mensagem personalizada pelo WhatsApp usando a Z-API.
 
+## .env:
+SUPABASE_URL=https://hgnirjusasdcfnbmpuww.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhnbmlyanVzYXNkY2ZuYm1wdXd3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTUwMDk0MzQsImV4cCI6MjA3MDU4NTQzNH0.omT6JiGog1ZrcUUsotPtxWX3LRwfYvmJglVWKFqcoaE
+ZAPI_INSTANCE_ID=3E59E6286616F1F54BC55AA063CFBDB5
+ZAPI_TOKEN=6C0C338254A35FCC0590D23C
+
 🛠 Requisitos
 - Python 3.8+
 - Conta gratuita no [Supabase](https://supabase.com/)
